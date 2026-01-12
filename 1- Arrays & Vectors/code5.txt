@@ -1,0 +1,8 @@
+Time Complexity:-
+Not the actual time taken but amount of time taken as function of input size(n)
+
+Big O notation:-
+A mathematical formalization used in computer science to describe the worst-case efficiency of an algorithm
+
+Space Complexity:-
+Amount of space taken by an algorithm as function of input size(n)
